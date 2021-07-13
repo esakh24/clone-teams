@@ -1,0 +1,17 @@
+.chat-title {
+  color: white;
+  padding: 5px;
+  height: 5vh;
+  background-color: rgb(57, 41, 71);
+}
+.chat-list {
+  padding: 5px;
+  height: 75vh;
+  background-color: rgb(210, 180, 228);
+}
+
+.chat-footer {
+  padding: 5px;
+  height: 5vh;
+  background-color: green;
+}
